@@ -18,7 +18,7 @@
     .col-l#{$colunas}{
       width: $tam-coluna * $colunas;
       @extend %col-l;
-      background: #123 * $cont;
+      background: #122 * $cont;
     }
     $cont:$cont + 1;
     $colunas: $colunas - 1;
