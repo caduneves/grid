@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .linha {
   margin-left: auto;
   margin-right: auto; }
@@ -10,50 +11,52 @@
 
 .col-l12 {
   width: 100%;
-  background: #112233; }
+  background: #333333; }
 
 .col-l11 {
   width: 91.6666666667%;
-  background: #224466; }
+  background: #666666; }
 
 .col-l10 {
   width: 83.3333333333%;
-  background: #336699; }
+  background: #999999; }
 
 .col-l9 {
   width: 75%;
-  background: #4488cc; }
+  background: #cccccc; }
 
 .col-l8 {
   width: 66.6666666667%;
-  background: #55aaff; }
+  background: white; }
 
 .col-l7 {
   width: 58.3333333333%;
-  background: #66ccff; }
+  background: white; }
 
 .col-l6 {
   width: 50%;
-  background: #77eeff; }
+  background: white; }
 
 .col-l5 {
   width: 41.6666666667%;
-  background: #88ffff; }
+  background: white; }
 
 .col-l4 {
   width: 33.3333333333%;
-  background: #99ffff; }
+  background: white; }
 
 .col-l3 {
   width: 25%;
-  background: #aaffff; }
+  background: white; }
 
 .col-l2 {
   width: 16.6666666667%;
-  background: #bbffff; }
+  background: white; }
 
 .col-l1 {
   width: 8.3333333333%;
-  background: #ccffff; }
+  background: white; }
+
+/* Esse comentario vai s├│ no grid */
 
 /*# sourceMappingURL=grid.css.map */
